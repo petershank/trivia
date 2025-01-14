@@ -2,6 +2,9 @@
 
 Answer: Ireland
 
+1.5 Trivia question: What does foo stand for?
+Answer: nothing particularly interesting
+
 2. Trivia question: Ninety percent of the Earth’s population lives in which hemisphere?
 
 Answer: The Northern Hemisphere
